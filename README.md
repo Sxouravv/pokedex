@@ -12,6 +12,15 @@ Check out the live application here: [Pokedex on Vercel](https://pokedex-rho-gil
 - Pokémon search and filtering
 - Responsive design
 
+## Environment Variables
+
+The following environment variables are required to run this project:
+
+- `AUTH0_SECRET`
+- `AUTH0_BASE_URL`
+- `AUTH0_ISSUER_BASE_URL`
+- `AUTH0_CLIENT_ID`
+- `AUTH0_CLIENT_SECRET`
 
 ## Getting Started
 
